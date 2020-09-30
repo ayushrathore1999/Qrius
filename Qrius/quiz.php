@@ -1,3 +1,4 @@
+<!-- This project is still incomplete and it is in development stages -->
 <?php session_start();
 ?>
 <!DOCTYPE html>
